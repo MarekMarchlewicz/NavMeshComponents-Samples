@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: CactusBossyAnimator
+  m_Controller: {fileID: 9100000, guid: 5435d7ce08f50d3419cec7576cac0a44, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 1827226128182048838, guid: 28d0d4f03b802df4e84fafc8a53df767,
+      type: 3}
+    m_OverrideClip: {fileID: 1827226128182048838, guid: 9fc7d14627bfceb4d9bb769bbffc7497,
+      type: 3}
+  - m_OriginalClip: {fileID: 1827226128182048838, guid: 166608139849cc64396724de812642d4,
+      type: 3}
+    m_OverrideClip: {fileID: 1827226128182048838, guid: 574f7877a25779d4499da2e82f967a3e,
+      type: 3}
